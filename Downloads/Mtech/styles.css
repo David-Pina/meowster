@@ -1,0 +1,42 @@
+h1 {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    font-family: "comic sans MS", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body{
+    background-color: bisque;
+    background-image: url(reliah-a-temple.jpg);
+    background-position: top center;
+}
+.topnav{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 400px;
+    margin-bottom: 20;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    color: rgb(236, 181, 135);
+    padding-top: 50px;
+    font-family: "comic sans MS", Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20px;
+   font-weight: Bold;
+    font-family: 'comic sans MS', 'Arial Narrow', Arial, sans-serif;
+}
+h2 a{
+    color:rgb(236, 181, 135) ;
+    text-decoration: none;
+}
