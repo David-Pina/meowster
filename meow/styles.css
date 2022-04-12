@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    
+    padding:10px;
+    height: 60px;
+    background-color: orange;
+}
+
+.mainTitle{
+    
+    margin-left: 20px;
+    margin-top: -10px;
+    color: white;
+    float:left;
+}
+
+.menuNav{
+    
+    color: white;
+    text-decoration: none;
+    float:right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.menuNav a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 3px;
+}
+
+.contentBox{
+    background-color:white;
+    margin-top: 5px;
+    margin-left:10px;
+    
+    
+}
+
+.smallBox{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid orange;
+    float:left;
+    width: 250px;
+    margin: 5px 3px;
+    padding: 8px;
+
+}
+
+.button{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+    padding: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.smallBox h3{
+    margin-top: 5px;
+}
+.smallBox p{   
+    margin-left: 20px;
+    
+}
+
+
+
+
